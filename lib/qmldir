@@ -1,0 +1,6 @@
+module Libfakeqevents
+plugin fakeqeventplugin
+classname FakeQEventPlugin
+
+typeinfo plugins.qmltypes
+
